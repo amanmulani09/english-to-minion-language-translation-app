@@ -1,0 +1,49 @@
+body{
+    background-color: whitesmoke;
+}
+#navbar h2{
+    font-size:3rem;
+    color:slateblue;
+    margin-top: 13px;
+    text-align: center;
+}
+
+#txt-input{
+
+    width:90%;
+    height: 10vh;
+    margin:1rem;
+    padding:1rem;
+    display: block;
+    border-radius: 13px;
+}
+
+#btn-translate{
+    font-size:1rem;
+    background: none;
+    margin-left: 593px;
+    border:2px solid rgb(213, 218, 223);
+    border-radius: 13px;
+    padding:13px;
+    cursor: pointer;
+    margin-top: 14px;
+
+
+}
+
+#btn-translate:hover{
+    background-color: rgb(228, 229, 230);
+
+}
+
+#txt-output{
+    width: 90%;
+    height:10vh;
+    margin:1rem;
+    padding:1rem;
+    border:1px solid black;
+    border-radius: 7px;
+    border-radius: 13px;
+    background-color: white;
+    margin-top: 44px;
+}
